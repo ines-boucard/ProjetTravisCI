@@ -9,3 +9,5 @@ describe("Checking if the user is created correctly", function () {
         tom.name.should.be.equal("tom");
     });
 });
+
+/*test*/
